@@ -25,7 +25,7 @@ size = int(input())
 arr=[]
 print("Enter elements of array:", end = " ")
 
-#Lop to get all the elements of array from user
+#Loop to get all the elements of array from user
 for i in range(size):
     arr.append(int(input()))
 
